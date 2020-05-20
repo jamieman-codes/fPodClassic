@@ -1,7 +1,9 @@
 # fPodClassic
 <img src="fPod.jpg" width="500" >
+
 # Introduction 
 The fPodClassic is a multi media program for the La Fortuna which is powered by an ATMEL AT90USB1286. The programs contains a easy to use GUI for the user to select songs and pictures.
+
 # How to use
 Songs and images must be saved onto the the SD Card. Sample songs and images are provided. 
 How to add Songs:
